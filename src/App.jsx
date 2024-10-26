@@ -3,7 +3,7 @@ import Email from "../public/images/email.svg";
 import Telefon from "../public/images/Calling.svg";
 import House from "../public/images/Buildinghouse.svg";
 import Logo from "../public/images/logo.svg";
-
+// import Store from "./redux/store";
 function App() {
   return (
     <div className="bg-gradient-to-b from-blue-50 to-white min-h-screen">
